@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: apppundit 
+  pool: 5
+  username: myapp
+  password: 12345678
